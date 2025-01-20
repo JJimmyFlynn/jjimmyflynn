@@ -2,7 +2,7 @@
 
 My name's John, a Software and DevOps engineer from Brooklyn, NY
 
-I'm interested in the operation and architecture of systems at scale. Some of skill areas include: AWS, K8s and containers, CI/CD, IaC, developer tooling, and more
+I'm interested in the operation and architecture of systems at scale. Some of my skill areas include: AWS, K8s and containers, CI/CD, IaC, developer tooling, and more
 
 If you'd like to get to know me more, you can:
 - Check out my [repositories](https://github.com/JJimmyFlynn?tab=repositories)
