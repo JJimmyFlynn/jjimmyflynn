@@ -1,6 +1,6 @@
 ## Welcome!
 
-My name's John, a Software and DevOps engineer from Brooklyn, NY
+My name's John, a Software and Cloud DevOps engineer from Brooklyn, NY
 
 I'm interested in the operation and architecture of systems at scale. Some of my skill areas include: AWS, K8s and containers, CI/CD, IaC, developer tooling, and more
 
