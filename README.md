@@ -9,14 +9,14 @@ If you'd like to get to know me more, you can:
 - Browse my [LinkedIn](https://www.linkedin.com/in/john-flynn-5484aa5a/)
 
 I also have some [certifications](https://www.credly.com/users/john-flynn.e0172515), if you're into that sorta thing:
-- AWS Solutions Architect Associate and Professional 
+- AWS Solutions Architect Professional and Associate
 - AWS Developer Associate
 - Kubernetes Administrator (CKA)
 <br>
 <br>
 
 
-> _Since peple tend to ask, the profile photo is of Louis Pasteur and it's a long story_
+> _Since people tend to ask, the profile photo is of Louis Pasteur
 
 <!--
 **JJimmyFlynn/jjimmyflynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
