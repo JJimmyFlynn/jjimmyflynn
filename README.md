@@ -16,7 +16,7 @@ I also have some [certifications](https://www.credly.com/users/john-flynn.e01725
 <br>
 
 
-> _Since people tend to ask, the profile photo is of Louis Pasteur
+> Since people tend to ask, the profile photo is of Louis Pasteur
 
 <!--
 **JJimmyFlynn/jjimmyflynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
